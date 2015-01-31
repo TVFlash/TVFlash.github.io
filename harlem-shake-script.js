@@ -10,7 +10,7 @@
   var CSS_BASE_CLASS = "mw-harlem_shake_me";
   var CSS_SLOW_CLASS = "mw-harlem_shake_slow";
   var CSS_FIRST_CLASS = "im_first";
-  var CSS_OTHER_CLASSES = ["im_drunk", "im_derp", "im_derping", "im_herping"];
+  var CSS_OTHER_CLASSES = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
 
   var CSS_STROBE_CLASS = "mw-strobe_light";
 
