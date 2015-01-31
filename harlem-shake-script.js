@@ -1,20 +1,4 @@
-var script = document.createElement('script');
-script.src = 'https://code.jquery.com/jquery-1.11.0.min.js';
-script.type = 'text/javascript';
-document.getElementsByTagName('head')[0].appendChild(script);
-
-setTimeout(function(){
-  init();
-
-
-},500);
-
-function init() {
-  shake();
-}
-
-
-function shake() {
+(function() {
 
   var MIN_HEIGHT = 30;
   var MIN_WIDTH = 30;
@@ -215,4 +199,4 @@ function shake() {
     }
   }
 
-}();
+})();
